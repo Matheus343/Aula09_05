@@ -1,2 +1,2 @@
-nome = input("digite seu nome")
-print("Seu nome é:", nome)
+sobrenome = input("digite seu nome")
+print("Seu nome é:", sobrenome)
